@@ -1,0 +1,14 @@
+{
+  "name": "xxl_common_util",
+  "version": "1.0.0",
+  "description": "日常使用工具函数",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xuxl",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^2.5.21"
+  }
+}
